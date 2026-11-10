@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.env
+.streamlit/
+data/
+input/*.pdf
+*.pyc
